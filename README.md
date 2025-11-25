@@ -48,6 +48,7 @@
 - [_Acing the System Design Interview_](./books/system%20design/Acing%20the%20System%20Design%20Interview%20--%20Zhiyong%20Tan%20--%201,%202024%20--%20Manning%20Publications%20--%209781633439108%20--%20c73d1a318d63aa7d5e6aeff5a0f76920%20--%20Anna’s%20Archive.pdf)
 - [_Building Secure and Reliable Systems_](./books/system%20design/building_secure_and_reliable_systems.pdf)
 - [_Designing Data Intensive Applications_](./books/system%20design/Designing%20Data%20Intensive%20Applications.pdf)
+- [_Designing Distributed Systems_](<./books/system%20design/Designing%20Distributed%20Systems,%202nd%20Edition%20Patterns%20and%20Paradigms%20for%20Scalable,%20Reliable%20Systems%20Using%20Kubernetes%20(Brendan%20Burns)%20(Z-Library).pdf>)
 - [_Designing Event-Driven Systems_](./books/system%20design/Designing-Event-Driven-Systems.pdf)
 - [_Grokking the Advanced System Design Interview_](<./books/system%20design/Grokking%20the%20Advanced%20System%20Design%20Interview%20(educative.io)%20(Z-Library).pdf>)
 - [_Grokking the System Design Interview_](<./books/system%20design/Grokking%20the%20System%20Design%20Interview%20(Educative.io)%20(Z-Library).pdf>)
