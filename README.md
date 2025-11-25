@@ -9,6 +9,7 @@
 - [_24 Patterns for Clean Code_](<./books/coding/24%20Patterns%20for%20Clean%20Code.%20Techniques%20for%20Faster,%20Safer%20Code%20with%20Minimal%20Debugging%20(Robert%20Beisert)%20(Z-Library).pdf>)
 - [_Clean Code_](./books/coding/clean_code.pdf)
 - [_Good Code, Bad Code_](<./books/coding/Good%20Code,%20Bad%20Code%20Think%20like%20a%20software%20engineer%20(Tom%20Long)%20(Z-Library).pdf>)
+- [_Refactoring: Improving the Design of Existing Code_](./books/coding/Refactoring.pdf)
 - [_Software Development, Design, and Coding_](<./books/coding/Software%20Development,%20Design%20and%20Coding%20(John%20F.%20Dooley)%20(Z-Library).pdf>)
 - [_The Art of Readable Code_](<./books/coding/The%20Art%20of%20Readable%20Code%20Simple%20and%20Practical%20Techniques%20for%20Writing%20Better%20Code%20(Dustin%20Boswell%20Trevor%20Foucher)%20(Z-Library).pdf>)
 
