@@ -19,6 +19,7 @@
 
 ## [Data Structures and Algorithms](./books/data%20structures%20and%20algorithms/)
 
+- [_Algorithmic Thinking_](<./books/data%20structures%20and%20algorithms/Algorithmic%20Thinking%20Unlock%20Your%20Programming%20Potential,%202nd%20Edition%20(Daniel%20Zingaro)%20(Z-Library).pdf>)
 - [_Data Structures and Algorithms Made Easy_](<./books/data%20structures%20and%20algorithms/Data%20Structures%20and%20Algorithms%20Made%20Easy%20Data%20Structures%20and%20Algorithmic%20Puzzles%20(Narasimha%20Karumanchi)%20(Z-Library).pdf>)
 - [_Handbook of Data Structures and Applications_](<./books/data%20structures%20and%20algorithms/Handbook%20of%20data%20structures%20and%20applications%20(Dinesh%20P.%20Mehta,%20Sartaj%20Sahni%20(editors))%20(Z-Library).pdf>)
 - [_Scheduling: Theory, Algorithms, and Systems_ 5th Edition](./books/data%20structures%20and%20algorithms/Scheduling%20Theory,%20Algorithms,%20And%20Systems%205th%20Edition.pdf)
