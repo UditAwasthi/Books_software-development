@@ -30,6 +30,14 @@
 - [_Head First Design Patterns_](<./books/design%20patterns/Head%20First%20Design%20Patterns%20Building%20Extensible%20and%20Maintainable%20Object-Oriented%20Software,%20Second%20Edition%20(Eric%20Freeman,%20Elisabeth%20Robson)%20(Z-Library).pdf>)
 - [_Learning Domain-Driven Design_](<./books/design%20patterns/Learning%20Domain-Driven%20Design%20Aligning%20Software%20Architecture%20and%20Business%20Strategy%20(Vladik%20Khononov)%20(Z-Library).pdf>)
 
+## [Git](./books/git/)
+
+- [_Git for Humans_](<./books/git/Git%20for%20Humans%20(David%20Demaree)%20(Z-Library).epub>)
+- [_Head First Git_](./books/git/Head%20First%20Git.pdf)
+- [_Learning Gerrit Code Review_](./books/git/Learning%20Gerrit%20Code%20Review%20-%20Luca%20Milanesio.pdf)
+- [_Mastering Git_](<./books/git/Mastering%20Git%20Understanding%20Git%20Internals%20and%20Commands%20(Jawwad%20Ahmad%20Chris%20Belanger)%20(Z-Library).epub>)
+- [_Pro Git_](./books/git/progit.pdf)
+
 ## [Software Architecture](./books/software%20architecture/)
 
 - [_Clean Architecture_](<./books/software%20architecture/(Robert%20C.%20Martin%20Series)%20Robert%20C.%20Martin%20-%20Clean%20Architecture_%20A%20Craftsman’s%20Guide%20to%20Software%20Structure%20and%20Design-Prentice%20Hall%20(2017).pdf>)
