@@ -27,6 +27,7 @@
 
 ## [Design Patterns](./books/design%20patterns/)
 
+- [_API Design Patterns_](<./books/design%20patterns/API%20Design%20Patterns%20(JJ%20Geewax)%20(z-library.sk,%201lib.sk,%20z-lib.sk).pdf>)
 - [_Design Patterns for Cloud Native Applications_](<./books/design%20patterns/Design Patterns for Cloud Native Applications Patterns in Practice Using APIs, Data, Events, and Streams (Kasun Indrasiri, Sriskandarajah Suhothayan) (z-library.sk, 1lib.sk, z-lib.sk).pdf>)
 - [_Design Patterns in Modern C++_](<./books/design%20patterns/Design%20Patterns%20in%20Modern%20C++%20Reusable%20Approaches%20for%20Object-Oriented%20Software%20Design%20(Dmitri%20Nesteruk)%20(z-library.sk,%201lib.sk,%20z-lib.sk).pdf>)
 - [_Design Patterns: Elements of Reusable Object-Oriented Software_](./books/design%20patterns/Design%20Patterns.pdf)
